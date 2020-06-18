@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanoramaRename", "PanoramaRename\PanoramaRename.csproj", "{F598D5E2-C157-477B-8852-650B48112D48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F598D5E2-C157-477B-8852-650B48112D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F598D5E2-C157-477B-8852-650B48112D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F598D5E2-C157-477B-8852-650B48112D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F598D5E2-C157-477B-8852-650B48112D48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61B75575-E91D-46C2-8A32-21965C4689E0}
+	EndGlobalSection
+EndGlobal
